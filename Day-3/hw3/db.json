@@ -1,0 +1,34 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "title": "Ram",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "title": "Sita",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "title": "Shyam",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "title": "Radha",
+      "gender": "Female"
+    },
+    {
+      "id": 5,
+      "title": "Akash",
+      "gender": "Male"
+    },
+    {
+      "title": "Ashish",
+      "gender": "male",
+      "id": 6
+    }
+  ]
+}
